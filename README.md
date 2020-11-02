@@ -8,10 +8,10 @@
 
 ### Ejercicio 9: Usar TravisCI
 
-Conectar TravisCI con GitHub
+- Conectar TravisCI con GitHub
 
 ![Conectar travis a GitHub](./imagenes/connect_travis_github.png)
 
-Activar Travis en el repositorio de mi proyectos
+- Activar Travis en el repositorio de mi proyectos
 
 ![Activar travis en mi repositorio](./imagenes/activate_travis_repositories.png)
