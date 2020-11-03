@@ -19,7 +19,7 @@
 Para llevar a cabo la ejecución automática de tests, necesitamos un fichero
 .travis.yml subido. Este es el mío:
 
-![Archivo .travis.yml](./imagenes/.travis.yml.png)
+![Archivo .travis.yml](./imagenes/travis_docker.png)
 
 Comprobación de que funciona correctamente:
 
