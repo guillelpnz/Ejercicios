@@ -2,7 +2,12 @@
 
 ## Ejercicio 1: Hacer los tests de un compañero
 
-... Aún sin hacer ...
+He decidido hacer un test a una función de David Heredia Cortés (XDavid1999).
+[Link al pull request](https://github.com/XDavid1999/PacketService/pull/57)
+
+Este ha sido el test que he implementado:
+
+![Captura del test hecho](./imagenes/test_david.png)
 
 ## Ejercicio 9: Usar TravisCI
 
@@ -10,7 +15,7 @@
 
 ![Conectar travis a GitHub](./imagenes/connect_travis_github.png)
 
-- Activar TravisCI en el repositorio de mi proyectos
+- Activar TravisCI en el repositorio de mi proyecto
 
 ![Activar travis en mi repositorio](./imagenes/activate_travis_repositories.png)
 
