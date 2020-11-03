@@ -10,6 +10,17 @@
 
 ![Conectar travis a GitHub](./imagenes/connect_travis_github.png)
 
-- Activar Travis en el repositorio de mi proyectos
+- Activar TravisCI en el repositorio de mi proyectos
 
 ![Activar travis en mi repositorio](./imagenes/activate_travis_repositories.png)
+
+## Ejercicio 10: Configurar integración continua usando TravisCI
+
+Para llevar a cabo la ejecución automática de tests, necesitamos un fichero
+.travis.yml subido. Este es el mío:
+
+![Archivo .travis.yml](./imagenes/.travis.yml.png)
+
+Comprobación de que funciona correctamente:
+
+![Travis funcionando](./imagenes/travis_funcionando.png)
