@@ -21,6 +21,9 @@ Para llevar a cabo la ejecución automática de tests, necesitamos un fichero
 
 ![Archivo .travis.yml](./imagenes/travis_docker.png)
 
+Se usa el contenedor Docker del hito anterior. El cambio que ha habido ha sido
+la instalación de un linter.
+
 Comprobación de que funciona correctamente:
 
 ![Travis funcionando](./imagenes/travis_funcionando.png)
