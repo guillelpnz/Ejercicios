@@ -24,7 +24,7 @@ Este ha sido el test que he implementado:
 Para llevar a cabo la ejecución automática de tests, necesitamos un fichero
 .travis.yml subido. Este es el mío:
 
-![Archivo .travis.yml](./imagenes/travis_docker.png)
+![Archivo .travis.yml](./imagenes/travis_reenvio.png)
 
 Se usa el contenedor Docker del hito anterior. El cambio que ha habido ha sido
 la instalación de un linter.
