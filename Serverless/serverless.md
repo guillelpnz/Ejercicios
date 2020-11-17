@@ -21,3 +21,14 @@ Posteriormente pide que importemos algún proyecto(repositorio) de GitHub a Verc
 Descargamos el VercelCLI de la forma en que se nos indica en la página oficial del software:
 
 ![install vercel cli](imagenes/instalacion_sdk_vercel.png)
+
+### Instalación de Firebase
+
+Ejecutamos el siguiente comando:
+
+![Comando ejecución Firebase](imagenes/sdk_firebase.png)
+
+En la consola ejecutamos firebase login, y conectamos una cuenta de Google
+para poder usar el servicio:
+
+![Exito login firebase](imagenes/logged_google.png)
