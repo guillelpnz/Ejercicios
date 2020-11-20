@@ -32,3 +32,18 @@ En la consola ejecutamos firebase login, y conectamos una cuenta de Google
 para poder usar el servicio:
 
 ![Exito login firebase](imagenes/logged_google.png)
+
+## Ejercicio 2: Tomar alguna de las funciones de prueba de Vercel, y hacer despliegues de prueba con el mismo
+
+Lo que hice fue crearme un repo para esta api de prueba, llamado
+[tema-serverless-iv](https://github.com/guillelpnz/tema-serverless-iv)
+
+Posteriormente, seguí las instrucciones para la creación de un fichero de
+prueba que encontré: [Ejemplo Go](https://vercel.com/docs/serverless-functions/supported-languages#go)
+
+Así, creé la carpeta /api dentro de mi proyecto de prueba, y dentro copié el
+fichero date.go del anterior link.
+
+Para ver el funcionamiento basta con visitar [esta página](https://tema-serverless-iv.vercel.app/api/date)
+
+Y como vemos hace algo tan simple como imprimir la fecha actual.
