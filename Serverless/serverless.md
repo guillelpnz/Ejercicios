@@ -22,6 +22,10 @@ Descargamos el VercelCLI de la forma en que se nos indica en la página oficial 
 
 ![install vercel cli](imagenes/instalacion_sdk_vercel.png)
 
+Los pushes automáticos se configuraron automáticamente al conectar Vercel y mi repo:
+
+![pushes automáticos](imagenes/int_vercel.png)
+
 ### Instalación de Firebase
 
 Ejecutamos el siguiente comando:
@@ -47,3 +51,19 @@ fichero date.go del anterior link.
 Para ver el funcionamiento basta con visitar [esta página](https://tema-serverless-iv.vercel.app/api/date)
 
 Y como vemos hace algo tan simple como imprimir la fecha actual.
+
+## Ejercicio 3: Probar funciones con Netlify
+
+Primero conecté Netlify con Github dándole a siguiente
+y los pushes automáticos se configuraron automáticamente:
+
+![pushes automáticos](imagenes/int_netlify.png)
+
+Hice un Bot con Node.js que lista los poemas más famosos de Federico García Lorca
+y de Rafael Alberti. Aquí una muestra del funcionamiento:
+
+![funcionamiento bot](imagenes/telegram_bot.png)
+
+Aquí el código del bot:
+
+[Código](https://github.com/guillelpnz/TextAnalyzer/tree/master/functions)
